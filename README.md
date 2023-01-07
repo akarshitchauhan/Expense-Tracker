@@ -16,6 +16,7 @@ any code editor and run the following command in the terminal.
   npm start
 ```
 
+![Alt text](https://drive.google.com/file/d/1W1jr-N0t8Nx1sItIgZjn9Cft5Ml1gFrF/view?usp=share_link "Optional title")
 
 ## Authors
 
