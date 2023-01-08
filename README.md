@@ -19,7 +19,7 @@ any code editor and run the following command in the terminal.
 
 ![App Screenshot](https://github.com/akarshitchauhan/Expense-Tracker/blob/main/Screenshots/Screenshot%202023-01-07%20222103.jpg?raw=true)
 
-![App Screenshot](https://github.com/akarshitchauhan/Expense-Tracker/blob/main/Screenshots/Screenshot%202023-01-07%20222103.jpg?raw=true)
+![App Screenshot](https://github.com/akarshitchauhan/Expense-Tracker/blob/main/Screenshots/Screenshot%202023-01-07%20222135.jpg?raw=true)
 
 ## Authors
 
