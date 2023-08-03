@@ -15,6 +15,7 @@ any code editor and run the following command in the terminal.
 ```bash
   npm start
 ```
+OR we can use npm package nodemon so that everytime any save is hit the server restarts automatically.
 ## Screenshots
 
 ![App Screenshot](https://github.com/akarshitchauhan/Expense-Tracker/blob/main/Screenshots/Screenshot%202023-01-07%20222103.jpg?raw=true)
